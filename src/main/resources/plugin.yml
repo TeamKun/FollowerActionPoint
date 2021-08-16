@@ -1,0 +1,4 @@
+name: FollowerActionPoint
+version: ${project.version}
+main: net.kunmc.lab.followeractionpoint.FollowerActionPoint
+api-version: 1.16
